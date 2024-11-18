@@ -9,6 +9,10 @@ const Footer = () => {
           <h1 className=" font-semibold text-2xl pb-4">CycleHub</h1>
           <p className=" mb-2 text-sm">
           Thank you for visiting Cycle Hub's website! We’re thrilled to have you here and look forward to helping you find your perfect ride. Happy cycling!!
+            <br/>
+          Location-East, near Changar Mor, opposite Hotel Rajnivas, Ramkrishan Nagar, Patna, Bihar 800027
+          <br/>
+          Contact- 099557 94722
           </p>
         </div>
         <div>
