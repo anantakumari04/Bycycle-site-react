@@ -86,7 +86,7 @@ const Navbar = () => {
           to="/cars"
           className=" hover:text-primary transition duration-200 ease-linear"
         >
-          Our Cars
+          Products
         </Link>
         <Link
           to="/services"
@@ -95,11 +95,12 @@ const Navbar = () => {
           Services
         </Link>
 
-        <div>
-          <button className="border-2 border-primary py-1 px-4 rounded-md">
-            Sign In
-          </button>
-        </div>
+        <Link
+            to="/revieww"
+            className=" hover:text-primary transition duration-200 ease-linear"
+          >
+            Reviews
+          </Link>
       </div>
     </header>
   );
